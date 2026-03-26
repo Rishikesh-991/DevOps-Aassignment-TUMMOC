@@ -20,9 +20,9 @@ jobs:
         node-version: '18'
 
  
-    # - name: Install Dependencies
-    #   working-directory: ./app
-    #   run: npm install
+    - name: Install Dependencies
+      working-directory: ./app
+      run: npm install
 
 
     - name: Lint Code
