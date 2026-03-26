@@ -12,11 +12,9 @@ This project demonstrates a **minimal DevOps pipeline implementation** for a sam
 ---
 
 
-
-
 # 📂 Project Structure
 
-```
+```bash
 tummoc-devops-assignment/
 │
 ├── app/                  
