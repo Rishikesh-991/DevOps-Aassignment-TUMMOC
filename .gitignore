@@ -1,0 +1,37 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker
+docker-compose.override.yml
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Build files
+dist/
+build/
+
+
+.vscode/
+.idea/
+
+# Misc
+*.swp
+node_modules/
+.env
+*.log
+terraform/.terraform/
+terraform/*.tfstate
